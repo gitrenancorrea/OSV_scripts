@@ -1,0 +1,23 @@
+OSV
+s602das742srv.petrobras.biz
+
+DLS Antigo
+10.249.255.232
+siemens
+Siemen$.Osv1
+
+Feature Profile
+FP_BR_Res
+FP_BR_Loc
+FP_BR_Cel
+FP_BR_Nac
+FP_BR_Int
+
+Sites
+
+IFO
+OSB 1000
+10.246.60.1
+gw101cipdsrv.petrobras.biz
+
+MAU
