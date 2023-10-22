@@ -20,4 +20,3 @@ OSB 1000
 10.246.60.1
 gw101cipdsrv.petrobras.biz
 
-MCE re
