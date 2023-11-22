@@ -1,0 +1,400 @@
+Localidade;Nome;Feature Profile;Ramal;Tipo;MAC;DDP;GPU;EP_REP;NP;Ramal Antigo;DNS-SRV;Profile
+PRA;OPM VR;FP_BR_Loc;559236166850;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166850;gw101prasrv.petrobras.biz;-
+PRA;Sergio;FP_BR_Nac;559236161066;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236161066;gw101prasrv.petrobras.biz;-
+PRA;Aldrey;FP_BR_Res;559236166715;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166715;gw101prasrv.petrobras.biz;-
+PRA;PEV  GRSA;FP_BR_Res;559236166306;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166306;gw101prasrv.petrobras.biz;-
+PRA;Mario;FP_BR_Cel;559236166304;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166304;gw101prasrv.petrobras.biz;-
+PRA;TEC ENF PEV;FP_BR_Res;559236166314;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166314;gw101prasrv.petrobras.biz;-
+PRA;Altervi;FP_BR_Res;559236166315;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166315;gw101prasrv.petrobras.biz;-
+PRA;Rodrigues;FP_BR_Nac;559236166310;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166310;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Res;559236166307;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166307;gw101prasrv.petrobras.biz;-
+PRA;Denio;FP_BR_Res;559236166301;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166301;gw101prasrv.petrobras.biz;-
+PRA;JOAO MOURA;FP_BR_Nac;559236166300;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166300;gw101prasrv.petrobras.biz;-
+PRA;Altervi;FP_BR_Res;559236166305;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166305;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Nac;559236166819;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166819;gw101prasrv.petrobras.biz;-
+PRA;Suely;FP_BR_Nac;559236166754;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166754;gw101prasrv.petrobras.biz;-
+PRA;Apto. 48 7456703;FP_BR_Nac;559236166703;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166703;gw101prasrv.petrobras.biz;-
+PRA;Quarto 119 BL 1;FP_BR_Nac;559236166968;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166968;gw101prasrv.petrobras.biz;-
+PRA;Refeitorio VR;FP_BR_Res;559236166751;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166751;gw101prasrv.petrobras.biz;-
+PRA;HOTELARIA;FP_BR_Res;559236166988;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166988;gw101prasrv.petrobras.biz;-
+PRA;Visitantes;FP_BR_Res;559236166862;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166862;gw101prasrv.petrobras.biz;-
+PRA;APARTAMENTO 638;FP_BR_Res;559236166339;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166339;gw101prasrv.petrobras.biz;-
+PRA;HOTELARIA;FP_BR_Res;559236166999;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166999;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166866;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166866;gw101prasrv.petrobras.biz;-
+PRA;SESMT GRSA 2;FP_BR_Nac;559236166453;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166453;gw101prasrv.petrobras.biz;-
+PRA;GOVERNANCA;FP_BR_Res;559236166318;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166318;gw101prasrv.petrobras.biz;-
+PRA;QUARTO MPL-AM;FP_BR_Nac;559236166303;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166303;gw101prasrv.petrobras.biz;-
+PRA;HOTELARIA;FP_BR_Res;559236166933;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166933;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166481;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166481;gw101prasrv.petrobras.biz;-
+PRA;Visitantes;FP_BR_Res;559236166784;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166784;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166815;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166815;gw101prasrv.petrobras.biz;-
+PRA;Visitantes;FP_BR_Res;559236166337;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166337;gw101prasrv.petrobras.biz;-
+PRA;559000000000;FP_BR_Res;559236166657;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166657;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166461;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166461;gw101prasrv.petrobras.biz;-
+PRA;Supervisao;FP_BR_Cel;559236166443;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166443;gw101prasrv.petrobras.biz;-
+PRA;Maria Cirilo;FP_BR_Nac;559236166414;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166414;gw101prasrv.petrobras.biz;-
+PRA;HOTELARIA;FP_BR_Res;559236166949;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166949;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Nac;559236166493;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166493;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166944;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166944;gw101prasrv.petrobras.biz;-
+PRA;ALOJ 129 IP AM;FP_BR_Nac;559236166474;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;9247;EP_OSB_PRA_01;NP_PRA;559236166474;gw101prasrv.petrobras.biz;-
+PRA;Visitantes;FP_BR_Res;559236166854;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166854;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Res;559236166816;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166816;gw101prasrv.petrobras.biz;-
+PRA;HOTELARIA;FP_BR_Res;559236166905;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166905;gw101prasrv.petrobras.biz;-
+PRA;HOTELARIA;FP_BR_Res;559236166897;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166897;gw101prasrv.petrobras.biz;-
+PRA;Apto 27;FP_BR_Nac;559236166727;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166727;gw101prasrv.petrobras.biz;-
+PRA;NUTRICAO GRSA;FP_BR_Res;559236166753;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166753;gw101prasrv.petrobras.biz;-
+PRA;Apto 104;FP_BR_Nac;559236166722;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166722;gw101prasrv.petrobras.biz;-
+PRA;Visitantes;FP_BR_Res;559236166335;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166335;gw101prasrv.petrobras.biz;-
+PRA;Antonio Grentil;FP_BR_Res;559236166624;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166624;gw101prasrv.petrobras.biz;-
+PRA;HOTELARIA;FP_BR_Res;559236166896;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166896;gw101prasrv.petrobras.biz;-
+PRA;Fiscalizacao SG;FP_BR_Nac;559236166465;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166465;gw101prasrv.petrobras.biz;-
+PRA;Visitantes;FP_BR_Res;559236166894;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166894;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166562;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166562;gw101prasrv.petrobras.biz;-
+PRA;Sergio;FP_BR_Nac;559236166806;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166806;gw101prasrv.petrobras.biz;-
+PRA;559000000000;FP_BR_Res;559236166646;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166646;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166535;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166535;gw101prasrv.petrobras.biz;-
+PRA;HOTELARIA;FP_BR_Res;559236166899;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166899;gw101prasrv.petrobras.biz;-
+PRA;MARIO;FP_BR_Nac;559236166872;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166872;gw101prasrv.petrobras.biz;-
+PRA;Visitantes;FP_BR_Res;559236166334;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166334;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166564;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166564;gw101prasrv.petrobras.biz;-
+PRA;Visitantes;FP_BR_Res;559236166332;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166332;gw101prasrv.petrobras.biz;-
+PRA;Diego Airam;FP_BR_Nac;559236166609;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166609;gw101prasrv.petrobras.biz;-
+PRA;SUPERVISAO GRSA;FP_BR_Nac;559236166684;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166684;gw101prasrv.petrobras.biz;-
+PRA;ALOJ VIT REGIA;FP_BR_Res;559236166302;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166302;gw101prasrv.petrobras.biz;-
+PRA;Vit Regia APT 61;FP_BR_Res;559236166950;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;9247;EP_OSB_PRA_01;NP_PRA;559236166950;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166811;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166811;gw101prasrv.petrobras.biz;-
+PRA;GERALDO;FP_BR_Res;559236166672;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166672;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166848;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166848;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166489;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166489;gw101prasrv.petrobras.biz;-
+PRA;GBASE Alojamento;FP_BR_Nac;559236166978;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166978;gw101prasrv.petrobras.biz;-
+PRA;Joao;FP_BR_Loc;559236166451;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166451;gw101prasrv.petrobras.biz;-
+PRA;GRSA SESMT 1;FP_BR_Res;559236166420;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166420;gw101prasrv.petrobras.biz;-
+PRA;RECEPCAO GRSA;FP_BR_Res;559236166422;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166422;gw101prasrv.petrobras.biz;-
+PRA;MEIO AMB GRSA;FP_BR_Res;559236166478;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166478;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Res;559236166532;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166532;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Res;559236166544;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166544;gw101prasrv.petrobras.biz;-
+PRA;Visitantes;FP_BR_Res;559236166636;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166636;gw101prasrv.petrobras.biz;-
+PRA;ALOJAMENTO TIC;FP_BR_Nac;559236166547;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166547;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166552;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166552;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166805;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;-;745;-;EP_OSB_PRA_01;NP_PRA;559236166805;gw101prasrv.petrobras.biz;-
+PRA;SUP ECOMP;FP_BR_Res;559236166740;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166740;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166510;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166510;gw101prasrv.petrobras.biz;-
+PRA;AptoSupervisaoSG;FP_BR_Nac;559236166404;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166404;gw101prasrv.petrobras.biz;-
+PRA;COT 03;FP_BR_Loc;559236166486;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166486;gw101prasrv.petrobras.biz;-
+PRA;FISCAL SPH 04;FP_BR_Nac;559236166316;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166316;gw101prasrv.petrobras.biz;-
+PRA;FISC CLAREIRA;FP_BR_Loc;559236166421;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166421;gw101prasrv.petrobras.biz;-
+PRA;COT 04 ENFERM;FP_BR_Loc;559236166982;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166982;gw101prasrv.petrobras.biz;-
+PRA;ENFERMARIA SMT03;FP_BR_Res;559236166865;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166865;gw101prasrv.petrobras.biz;-
+PRA;OP AREA;FP_BR_Loc;559236166785;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166785;gw101prasrv.petrobras.biz;-
+PRA;Frederico;FP_BR_Res;559236166723;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166723;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Nac;559236166879;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9201;EP_OSB_PRA_01;NP_PRA;559236166879;gw101prasrv.petrobras.biz;-
+PRA;QUALIDADE  CQ;FP_BR_Res;559236166855;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166855;gw101prasrv.petrobras.biz;-
+PRA;REFEITORIO ARARA;FP_BR_Res;559236166804;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166804;gw101prasrv.petrobras.biz;-
+PRA;SUPERV CHIBATAO;FP_BR_Loc;559236166720;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166720;gw101prasrv.petrobras.biz;-
+PRA;ARMRECEBIMENTO;FP_BR_Cel;559236166824;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9246;EP_OSB_PRA_01;NP_PRA;559236166824;gw101prasrv.petrobras.biz;-
+PRA;D14 SUP;FP_BR_Nac;559236166505;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9246;EP_OSB_PRA_01;NP_PRA;559236166505;gw101prasrv.petrobras.biz;-
+PRA;Ana;FP_BR_Res;559236166649;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166649;gw101prasrv.petrobras.biz;-
+PRA;Eliane;FP_BR_Loc;559236166638;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166638;gw101prasrv.petrobras.biz;-
+PRA;CENTRAL RESIDO;FP_BR_Res;559236166668;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166668;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Loc;559236166601;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166601;gw101prasrv.petrobras.biz;-
+PRA;PIOP CALD;FP_BR_Res;559236166791;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9213;EP_OSB_PRA_01;NP_PRA;559236166791;gw101prasrv.petrobras.biz;-
+PRA;COORDENACAO;FP_BR_Nac;559236166861;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9247;EP_OSB_PRA_01;NP_PRA;559236166861;gw101prasrv.petrobras.biz;-
+PRA;ATENDIMENTO;FP_BR_Res;559236166628;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9220;EP_OSB_PRA_01;NP_PRA;559236166628;gw101prasrv.petrobras.biz;-
+PRA;Fisc TT Campo;FP_BR_Nac;559236166464;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166464;gw101prasrv.petrobras.biz;-
+PRA;Ala 400 Apto 404;FP_BR_Res;559236166309;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166309;gw101prasrv.petrobras.biz;-
+PRA;Supervisor TIC;FP_BR_Nac;559236166900;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9207;EP_OSB_PRA_01;NP_PRA;559236166900;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Loc;559236166680;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166680;gw101prasrv.petrobras.biz;-
+PRA;OPM Eng Manut;FP_BR_Nac;559236166614;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166614;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Res;559236166602;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166602;gw101prasrv.petrobras.biz;-
+PRA;PESCARIA URUCU;FP_BR_Nac;559236166653;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9247;EP_OSB_PRA_01;NP_PRA;559236166653;gw101prasrv.petrobras.biz;-
+PRA;AZEVEDO l JAIRON;FP_BR_Res;559236166430;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166430;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Int;559236166726;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166726;gw101prasrv.petrobras.biz;-
+PRA;MAP;FP_BR_Nac;559236166549;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9215;EP_OSB_PRA_01;NP_PRA;559236166549;gw101prasrv.petrobras.biz;-
+PRA;FERRAMENTARIA;FP_BR_Loc;559236166746;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166746;gw101prasrv.petrobras.biz;-
+PRA;QTO 02 SUP CAMPO;FP_BR_Nac;559236166812;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166812;gw101prasrv.petrobras.biz;-
+PRA;PIOP TATICO;FP_BR_Loc;559236166747;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166747;gw101prasrv.petrobras.biz;-
+PRA;Programacao;FP_BR_Cel;559236166515;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9215;EP_OSB_PRA_01;NP_PRA;559236166515;gw101prasrv.petrobras.biz;-
+PRA;PA  ETE;FP_BR_Nac;559236166642;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166642;gw101prasrv.petrobras.biz;-
+PRA;Fisc TT Campo;FP_BR_Res;559236166943;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166943;gw101prasrv.petrobras.biz;-
+PRA;TEC SEG;FP_BR_Res;559236166736;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9216;EP_OSB_PRA_01;NP_PRA;559236166736;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166836;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166836;gw101prasrv.petrobras.biz;-
+PRA;APT 631;FP_BR_Res;559236166706;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166706;gw101prasrv.petrobras.biz;-
+PRA;Fernando;FP_BR_Res;559236166344;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166344;gw101prasrv.petrobras.biz;-
+PRA;ATENDIMENTO D8;FP_BR_Cel;559236166606;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9246;EP_OSB_PRA_01;NP_PRA;559236166606;gw101prasrv.petrobras.biz;-
+PRA;INSTRUM TSO DPCM;FP_BR_Res;559236166435;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166435;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Loc;559236166608;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166608;gw101prasrv.petrobras.biz;-
+PRA;OPM Eng Eletrica;FP_BR_Nac;559236166786;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166786;gw101prasrv.petrobras.biz;-
+PRA;ALMOXARIFADO PA;FP_BR_Nac;559236166674;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166674;gw101prasrv.petrobras.biz;-
+PRA;ENG VECTRA;FP_BR_Nac;559236166975;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166975;gw101prasrv.petrobras.biz;-
+PRA;Coordenacao OMNI;FP_BR_Nac;559236166438;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166438;gw101prasrv.petrobras.biz;-
+PRA;PIOP DESENHISTA;FP_BR_Res;559236166656;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166656;gw101prasrv.petrobras.biz;-
+PRA;ECOMP;FP_BR_Nac;559236279445;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;743;-;EP_OSB_PRA_01;NP_PRA;559236279445;gw101prasrv.petrobras.biz;-
+PRA;ALOJ TEC MASC;FP_BR_Res;559236166994;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9218;EP_OSB_PRA_01;NP_PRA;559236166994;gw101prasrv.petrobras.biz;-
+PRA;ALBERIS;FP_BR_Nac;559236166618;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9201;EP_OSB_PRA_01;NP_PRA;559236166618;gw101prasrv.petrobras.biz;-
+PRA;ENFERMAGEM BR;FP_BR_Nac;559236166469;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9208;EP_OSB_PRA_01;NP_PRA;559236166469;gw101prasrv.petrobras.biz;-
+PRA;NR 10;FP_BR_Nac;559236166752;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166752;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Nac;559236166669;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166669;gw101prasrv.petrobras.biz;-
+PRA;Altervi;FP_BR_Res;559236166428;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166428;gw101prasrv.petrobras.biz;-
+PRA;COORD TSO DPCM;FP_BR_Nac;559236166707;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166707;gw101prasrv.petrobras.biz;-
+PRA;Altervi;FP_BR_Res;559236166621;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166621;gw101prasrv.petrobras.biz;-
+PRA;OPM PAINEL;FP_BR_Loc;559236166607;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166607;gw101prasrv.petrobras.biz;-
+PRA;SAGUAO AEROPORTO;FP_BR_Res;559236166460;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166460;gw101prasrv.petrobras.biz;-
+PRA;JOAO MOURA;FP_BR_Nac;559236166858;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9207;EP_OSB_PRA_01;NP_PRA;559236166858;gw101prasrv.petrobras.biz;-
+PRA;SOBREAVISO MA;FP_BR_Nac;559236166989;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166989;gw101prasrv.petrobras.biz;-
+PRA;TEC ENF PEA;FP_BR_Res;559236166296;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166296;gw101prasrv.petrobras.biz;-
+PRA;MAXIN;FP_BR_Res;559236166406;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166406;gw101prasrv.petrobras.biz;-
+PRA;Coordenacao OMNI;FP_BR_Res;559236166497;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166497;gw101prasrv.petrobras.biz;-
+PRA;Marcio;FP_BR_Nac;559236166630;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9252;EP_OSB_PRA_01;NP_PRA;559236166630;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Nac;559236166822;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9205;EP_OSB_PRA_01;NP_PRA;559236166822;gw101prasrv.petrobras.biz;-
+PRA;Aereo Urucu;FP_BR_Res;559236166734;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166734;gw101prasrv.petrobras.biz;-
+PRA;ESTOQUE GRSA;FP_BR_Nac;559236166349;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166349;gw101prasrv.petrobras.biz;-
+PRA;FARMACIA;FP_BR_Res;559236166490;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9208;EP_OSB_PRA_01;NP_PRA;559236166490;gw101prasrv.petrobras.biz;-
+PRA;TEC ENF AVR;FP_BR_Res;559236166548;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9208;EP_OSB_PRA_01;NP_PRA;559236166548;gw101prasrv.petrobras.biz;-
+PRA;ATEND COVID 1;FP_BR_Res;559236166995;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9218;EP_OSB_PRA_01;NP_PRA;559236166995;gw101prasrv.petrobras.biz;-
+PRA;ENDEMIAS SMS;FP_BR_Loc;559236166611;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9208;EP_OSB_PRA_01;NP_PRA;559236166611;gw101prasrv.petrobras.biz;-
+PRA;Daniel;FP_BR_Cel;559236166405;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166405;gw101prasrv.petrobras.biz;-
+PRA;Daniel;FP_BR_Loc;559236166687;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166687;gw101prasrv.petrobras.biz;-
+PRA;ANDREA SEFARLES;FP_BR_Res;559236166683;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9201;EP_OSB_PRA_01;NP_PRA;559236166683;gw101prasrv.petrobras.biz;-
+PRA;ENFERM CONT;FP_BR_Nac;559236166402;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9208;EP_OSB_PRA_01;NP_PRA;559236166402;gw101prasrv.petrobras.biz;-
+PRA;MED PETROBRAS;FP_BR_Nac;559236166513;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9208;EP_OSB_PRA_01;NP_PRA;559236166513;gw101prasrv.petrobras.biz;-
+PRA;SECRET SAUDE;FP_BR_Cel;559236166555;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9208;EP_OSB_PRA_01;NP_PRA;559236166555;gw101prasrv.petrobras.biz;-
+PRA;EDUC FIS 1;FP_BR_Res;559236166476;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9208;EP_OSB_PRA_01;NP_PRA;559236166476;gw101prasrv.petrobras.biz;-
+PRA;Lavanderia  GRSA;FP_BR_Res;559236166711;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166711;gw101prasrv.petrobras.biz;-
+PRA;BOMBEIRO;FP_BR_Res;559236166964;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166964;gw101prasrv.petrobras.biz;-
+PRA;M Jesus Ironeida;FP_BR_Res;559236166881;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9201;EP_OSB_PRA_01;NP_PRA;559236166881;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Nac;559236166959;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9205;EP_OSB_PRA_01;NP_PRA;559236166959;gw101prasrv.petrobras.biz;-
+PRA;BOGPM RECEPCAO;FP_BR_Res;559236166475;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166475;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Nac;559236166914;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166914;gw101prasrv.petrobras.biz;-
+PRA;QUIMICOS IP;FP_BR_Res;559236166885;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9247;EP_OSB_PRA_01;NP_PRA;559236166885;gw101prasrv.petrobras.biz;-
+PRA;TEC ENF POLO;FP_BR_Cel;559236166884;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166884;gw101prasrv.petrobras.biz;-
+PRA;SEGURANCA DE VOO;FP_BR_Cel;559236166401;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166401;gw101prasrv.petrobras.biz;-
+PRA;GBAS;FP_BR_Nac;559236166695;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166695;gw101prasrv.petrobras.biz;-
+PRA;Hellen;FP_BR_Res;559236166546;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166546;gw101prasrv.petrobras.biz;-
+PRA;Raimundo;FP_BR_Res;559236166431;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166431;gw101prasrv.petrobras.biz;-
+PRA;PERFILAGEM;FP_BR_Res;559236166496;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166496;gw101prasrv.petrobras.biz;-
+PRA;Sala reuniao EMI;FP_BR_Res;559236166898;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9201;EP_OSB_PRA_01;NP_PRA;559236166898;gw101prasrv.petrobras.biz;-
+PRA;OPM ADM URUCU;FP_BR_Nac;559236166637;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166637;gw101prasrv.petrobras.biz;-
+PRA;OFIVAL;FP_BR_Nac;559236166632;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9214;EP_OSB_PRA_01;NP_PRA;559236166632;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166841;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166841;gw101prasrv.petrobras.biz;-
+PRA;PH Urucu; FP_BR_Int;559236166908;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9201;EP_OSB_PRA_01;NP_PRA;559236166908;gw101prasrv.petrobras.biz;-
+PRA;SUPERVISAO EMI;FP_BR_Nac;559236166924;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9238;EP_OSB_PRA_01;NP_PRA;559236166924;gw101prasrv.petrobras.biz;-
+PRA;ANDAIME;FP_BR_Res;559236166728;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166728;gw101prasrv.petrobras.biz;-
+PRA;TEC ENFERMAGEM;FP_BR_Res;559236166738;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166738;gw101prasrv.petrobras.biz;-
+PRA;RH TECNOSONDA;FP_BR_Nac;559236166987;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166987;gw101prasrv.petrobras.biz;-
+PRA;EMI  Quarto 10;FP_BR_Nac;559236166671;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166671;gw101prasrv.petrobras.biz;-
+PRA;Frederico;FP_BR_Nac;559236166779;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166779;gw101prasrv.petrobras.biz;-
+PRA;Supervisao;FP_BR_Nac;559236166487;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9215;EP_OSB_PRA_01;NP_PRA;559236166487;gw101prasrv.petrobras.biz;-
+PRA;Luciana;FP_BR_Res;559236166955;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9205;EP_OSB_PRA_01;NP_PRA;559236166955;gw101prasrv.petrobras.biz;-
+PRA;DOCTEC TSO DPCM;FP_BR_Loc;559236166771;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166771;gw101prasrv.petrobras.biz;-
+PRA;SMSADM TSO DPCM;FP_BR_Loc;559236166776;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166776;gw101prasrv.petrobras.biz;-
+PRA;TECMAT TSO DPCM;FP_BR_Loc;559236166946;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166946;gw101prasrv.petrobras.biz;-
+PRA;Geraldo;FP_BR_Nac;559236166729;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166729;gw101prasrv.petrobras.biz;-
+PRA;PIOP;FP_BR_Res;559236166877;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9213;EP_OSB_PRA_01;NP_PRA;559236166877;gw101prasrv.petrobras.biz;-
+PRA;PIOP DELIN NUC 1;FP_BR_Res;559236166416;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9213;EP_OSB_PRA_01;NP_PRA;559236166416;gw101prasrv.petrobras.biz;-
+PRA;Vanderson;FP_BR_Cel;559236166919;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9238;EP_OSB_PRA_01;NP_PRA;559236166919;gw101prasrv.petrobras.biz;-
+PRA;MANUTENCAO TIC;0;559236166716;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9220;EP_OSB_PRA_01;NP_PRA;559236166716;gw101prasrv.petrobras.biz;-
+PRA;CONTROLADOR DE F;FP_BR_Res;559236166410;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166410;gw101prasrv.petrobras.biz;-
+PRA;PLANEJ TSO DPCM;FP_BR_Res;559236166626;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166626;gw101prasrv.petrobras.biz;-
+PRA;PROAGEC;FP_BR_Res;559236166857;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9216;EP_OSB_PRA_01;NP_PRA;559236166857;gw101prasrv.petrobras.biz;-
+PRA;QSMS TSO EMI;FP_BR_Res;559236166500;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166500;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Res;559236166634;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9238;EP_OSB_PRA_01;NP_PRA;559236166634;gw101prasrv.petrobras.biz;-
+PRA;PLANEJ QUALIDADE;FP_BR_Loc;559236166745;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166745;gw101prasrv.petrobras.biz;-
+PRA;Altervi;FP_BR_Res;559236166693;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166693;gw101prasrv.petrobras.biz;-
+PRA;Geraldo;FP_BR_Loc;559236166832;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166832;gw101prasrv.petrobras.biz;-
+PRA;Fiscalizacao;FP_BR_Cel;559236166550;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9215;EP_OSB_PRA_01;NP_PRA;559236166550;gw101prasrv.petrobras.biz;-
+PRA;PIOP MECANICA;FP_BR_Nac;559236166777;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9213;EP_OSB_PRA_01;NP_PRA;559236166777;gw101prasrv.petrobras.biz;-
+PRA;SECRET SEG;FP_BR_Nac;559236166887;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9216;EP_OSB_PRA_01;NP_PRA;559236166887;gw101prasrv.petrobras.biz;-
+PRA;Paulo;FP_BR_Nac;559236166846;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9246;EP_OSB_PRA_01;NP_PRA;559236166846;gw101prasrv.petrobras.biz;-
+PRA;SUP RODOFLUVIAL; FP_BR_Int;559236166452;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166452;gw101prasrv.petrobras.biz;-
+PRA;Sala Operadores;FP_BR_Res;559236166328;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166328;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Loc;559236166853;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166853;gw101prasrv.petrobras.biz;-
+PRA;Manutencao TT;FP_BR_Res;559236166425;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166425;gw101prasrv.petrobras.biz;-
+PRA;PROGRAMACAO PUC;FP_BR_Res;559236166477;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166477;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Res;559236166458;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166458;gw101prasrv.petrobras.biz;-
+PRA;MVS SMS;FP_BR_Res;559236166484;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166484;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Loc;559236166834;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166834;gw101prasrv.petrobras.biz;-
+PRA;Daniel;FP_BR_Nac;559236166561;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166561;gw101prasrv.petrobras.biz;-
+PRA;System One;FP_BR_Res;559236166907;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9201;EP_OSB_PRA_01;NP_PRA;559236166907;gw101prasrv.petrobras.biz;-
+PRA;PIOP DEMAIS GERE;FP_BR_Loc;559236166620;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9213;EP_OSB_PRA_01;NP_PRA;559236166620;gw101prasrv.petrobras.biz;-
+PRA;HIG OCUP;FP_BR_Nac;559236166909;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9216;EP_OSB_PRA_01;NP_PRA;559236166909;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Nac;559236166631;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9201;EP_OSB_PRA_01;NP_PRA;559236166631;gw101prasrv.petrobras.biz;-
+PRA;PIOP ELETRICA;FP_BR_Res;559236166340;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9213;EP_OSB_PRA_01;NP_PRA;559236166340;gw101prasrv.petrobras.biz;-
+PRA;FISCAL BR IP AM;FP_BR_Nac;559236166956;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9247;EP_OSB_PRA_01;NP_PRA;559236166956;gw101prasrv.petrobras.biz;-
+PRA;PIOP MATERIAIS;FP_BR_Res;559236166766;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9213;EP_OSB_PRA_01;NP_PRA;559236166766;gw101prasrv.petrobras.biz;-
+PRA;ADM VECTRA;FP_BR_Nac;559236166689;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166689;gw101prasrv.petrobras.biz;-
+PRA;GESTAO LABMETRO;FP_BR_Nac;559236166830;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166830;gw101prasrv.petrobras.biz;-
+PRA;AUTOMACAO; FP_BR_Int;559236166912;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9252;EP_OSB_PRA_01;NP_PRA;559236166912;gw101prasrv.petrobras.biz;-
+PRA;Inspecao EMI;FP_BR_Res;559236166673;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9201;EP_OSB_PRA_01;NP_PRA;559236166673;gw101prasrv.petrobras.biz;-
+PRA;Document Tecnica;FP_BR_Cel;559236276040;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;743;-;EP_OSB_PRA_01;NP_PRA;559236276040;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Loc;559236166807;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166807;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Loc;559236166619;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166619;gw101prasrv.petrobras.biz;-
+PRA;PIOP INST;FP_BR_Res;559236166605;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9213;EP_OSB_PRA_01;NP_PRA;559236166605;gw101prasrv.petrobras.biz;-
+PRA;MEDICO SANSIM;FP_BR_Res;559236166713;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9208;EP_OSB_PRA_01;NP_PRA;559236166713;gw101prasrv.petrobras.biz;-
+PRA;ISC BOGPM;FP_BR_Nac;559236166440;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166440;gw101prasrv.petrobras.biz;-
+PRA;D14 AUXMOV;FP_BR_Cel;559236166733;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166733;gw101prasrv.petrobras.biz;-
+PRA;ESTOQUE GRSA;FP_BR_Nac;559236166688;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166688;gw101prasrv.petrobras.biz;-
+PRA;ALA 400 APTO 407;FP_BR_Res;559236166412;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166412;gw101prasrv.petrobras.biz;-
+PRA;Equipe resgate;FP_BR_Res;559236166342;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166342;gw101prasrv.petrobras.biz;-
+PRA;ALA 400 APTO 412;FP_BR_Res;559236166418;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166418;gw101prasrv.petrobras.biz;-
+PRA;Luciana;FP_BR_Loc;559236166960;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9205;EP_OSB_PRA_01;NP_PRA;559236166960;gw101prasrv.petrobras.biz;-
+PRA;NR 10 Supervisao;FP_BR_Nac;559236166629;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166629;gw101prasrv.petrobras.biz;-
+PRA;CALDEIRARIA BR;FP_BR_Nac;559236166708;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9238;EP_OSB_PRA_01;NP_PRA;559236166708;gw101prasrv.petrobras.biz;-
+PRA;TECNOSONDA TOCA;FP_BR_Res;559236166311;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166311;gw101prasrv.petrobras.biz;-
+PRA;NUTRI SMS;FP_BR_Res;559236166565;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9208;EP_OSB_PRA_01;NP_PRA;559236166565;gw101prasrv.petrobras.biz;-
+PRA;559000000000;FP_BR_Res;559236161335;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236161335;gw101prasrv.petrobras.biz;-
+PRA;CPT SMSI AM;FP_BR_Nac;559236166654;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9247;EP_OSB_PRA_01;NP_PRA;559236166654;gw101prasrv.petrobras.biz;-
+PRA;Geraldo;FP_BR_Loc;559236166842;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166842;gw101prasrv.petrobras.biz;-
+PRA;OPM Eng Autom;FP_BR_Nac;559236166748;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166748;gw101prasrv.petrobras.biz;-
+PRA;CIMENTACAO;FP_BR_Res;559236166541;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166541;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166623;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166623;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Nac;559236166859;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9238;EP_OSB_PRA_01;NP_PRA;559236166859;gw101prasrv.petrobras.biz;-
+PRA;Bombeiros AERO;FP_BR_Res;559236166644;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166644;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Loc;559236166651;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166651;gw101prasrv.petrobras.biz;-
+PRA;SUPER OPM  MANUT;FP_BR_Nac;559236166923;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166923;gw101prasrv.petrobras.biz;-
+PRA;SUPERVISAO;FP_BR_Nac;559236166764;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166764;gw101prasrv.petrobras.biz;-
+PRA;MANUTENCAO GRSA;FP_BR_Res;559236166433;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166433;gw101prasrv.petrobras.biz;-
+PRA;7456400;FP_BR_Cel;559236166400;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166400;gw101prasrv.petrobras.biz;-
+PRA;SLICKLINE URUCU;FP_BR_Res;559236166574;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166574;gw101prasrv.petrobras.biz;-
+PRA;Ala 400 Apto 406;FP_BR_Res;559236166675;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166675;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Loc;559236166826;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166826;gw101prasrv.petrobras.biz;-
+PRA;OPM Painel TBM;FP_BR_Nac;559236166765;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166765;gw101prasrv.petrobras.biz;-
+PRA;ALOJ BOMB;FP_BR_Res;559236166732;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166732;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Res;559236166875;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166875;gw101prasrv.petrobras.biz;-
+PRA;VITORIA REGIA 1;FP_BR_Res;559236166755;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166755;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Res;559236166886;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166886;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Loc;559236166617;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166617;gw101prasrv.petrobras.biz;-
+PRA;TS CONTRATADAS;FP_BR_Res;559236166417;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166417;gw101prasrv.petrobras.biz;-
+PRA;BASE COVID;FP_BR_Res;559236166993;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9218;EP_OSB_PRA_01;NP_PRA;559236166993;gw101prasrv.petrobras.biz;-
+PRA;Rebeca;FP_BR_Res;559236166499;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166499;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Loc;559236166813;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166813;gw101prasrv.petrobras.biz;-
+PRA;TECNOSONDA EMI;FP_BR_Nac;559236166860;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166860;gw101prasrv.petrobras.biz;-
+PRA;TES SEG;FP_BR_Res;559236166666;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9216;EP_OSB_PRA_01;NP_PRA;559236166666;gw101prasrv.petrobras.biz;-
+PRA;TST OMNI;FP_BR_Res;559236166462;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166462;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Loc;559236166789;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166789;gw101prasrv.petrobras.biz;-
+PRA;PLANEJAMENTO;FP_BR_Res;559236166308;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166308;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Loc;559236166670;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166670;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166691;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166691;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Res;559236166782;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9214;EP_OSB_PRA_01;NP_PRA;559236166782;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Res;559236166697;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9214;EP_OSB_PRA_01;NP_PRA;559236166697;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Res;559236166835;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9214;EP_OSB_PRA_01;NP_PRA;559236166835;gw101prasrv.petrobras.biz;-
+PRA;Geraldo;FP_BR_Loc;559236166744;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166744;gw101prasrv.petrobras.biz;-
+PRA;Altervi;FP_BR_Res;559236166639;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166639;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Loc;559236166845;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166845;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Nac;559236166633;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9201;EP_OSB_PRA_01;NP_PRA;559236166633;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Loc;559236166868;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166868;gw101prasrv.petrobras.biz;-
+PRA;Geraldo;FP_BR_Cel;559236166880;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166880;gw101prasrv.petrobras.biz;-
+PRA;PIOP DELINEADOR;FP_BR_Nac;559236279444;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;743;-;EP_OSB_PRA_01;NP_PRA;559236279444;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Loc;559236166911;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166911;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Nac;559236166761;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166761;gw101prasrv.petrobras.biz;-
+PRA;FISCALIZACAO OPM;FP_BR_Nac;559236166750;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9243;EP_OSB_PRA_01;NP_PRA;559236166750;gw101prasrv.petrobras.biz;-
+PRA;SUPERV OPM CAMPO;FP_BR_Nac;559236166921;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166921;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Res;559236279437;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;743;-;EP_OSB_PRA_01;NP_PRA;559236279437;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Res;559236166643;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166643;gw101prasrv.petrobras.biz;-
+PRA;CTR LABORATÃ“RIO;FP_BR_Res;559236276394;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;743;-;EP_OSB_PRA_01;NP_PRA;559236276394;gw101prasrv.petrobras.biz;-
+PRA;RECEPCAO TIC;FP_BR_Res;559236166434;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166434;gw101prasrv.petrobras.biz;-
+PRA;Sup Processo;FP_BR_Nac;559236166937;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166937;gw101prasrv.petrobras.biz;-
+PRA;ATENDIMENTO D8;FP_BR_Cel;559236166648;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9246;EP_OSB_PRA_01;NP_PRA;559236166648;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Nac;559236166694;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9238;EP_OSB_PRA_01;NP_PRA;559236166694;gw101prasrv.petrobras.biz;-
+PRA;ATENDIMENTO D14;FP_BR_Nac;559236166543;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166543;gw101prasrv.petrobras.biz;-
+PRA;OFICINA GAVIAO;FP_BR_Res;559236166977;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166977;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166749;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166749;gw101prasrv.petrobras.biz;-
+PRA;Fiscalizacao EMI;FP_BR_Nac;559236166918;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9243;EP_OSB_PRA_01;NP_PRA;559236166918;gw101prasrv.petrobras.biz;-
+PRA;Marques;FP_BR_Res;559236166847;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166847;gw101prasrv.petrobras.biz;-
+PRA;Oficina de Campo;FP_BR_Res;559236166635;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166635;gw101prasrv.petrobras.biz;-
+PRA;GRSA MANUTENCAO;FP_BR_Res;559236166837;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166837;gw101prasrv.petrobras.biz;-
+PRA;Nellyo;FP_BR_Res;559236166616;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9201;EP_OSB_PRA_01;NP_PRA;559236166616;gw101prasrv.petrobras.biz;-
+PRA;Kleber;FP_BR_Cel;559236166441;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166441;gw101prasrv.petrobras.biz;-
+PRA;MEIO AMBIENTE;FP_BR_Nac;559236166948;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166948;gw101prasrv.petrobras.biz;-
+PRA;OFICINA IP AM;FP_BR_Nac;559236166954;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9247;EP_OSB_PRA_01;NP_PRA;559236166954;gw101prasrv.petrobras.biz;-
+PRA;ENCARREGADO SPH4;FP_BR_Nac;559236166424;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166424;gw101prasrv.petrobras.biz;-
+PRA;Jorge; FP_BR_Int;559236276007;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;743;9252;EP_OSB_PRA_01;NP_PRA;559236276007;gw101prasrv.petrobras.biz;-
+PRA;Oficina de Campo;FP_BR_Res;559236166615;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166615;gw101prasrv.petrobras.biz;-
+PRA;Semapi;FP_BR_Res;559236166326;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166326;gw101prasrv.petrobras.biz;-
+PRA;ALA 400 APTO 410;FP_BR_Res;559236166313;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166313;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Loc;559236166931;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166931;gw101prasrv.petrobras.biz;-
+PRA;ICB-02;FP_BR_Nac;559236166463;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166463;gw101prasrv.petrobras.biz;-
+PRA;Marques;FP_BR_Res;559236166966;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166966;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Loc;559236166810;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166810;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Res;559236166625;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166625;gw101prasrv.petrobras.biz;-
+PRA;SUPERVISAO ARM;FP_BR_Nac;559236166904;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9246;EP_OSB_PRA_01;NP_PRA;559236166904;gw101prasrv.petrobras.biz;-
+PRA;SUP GESTAO ARM;FP_BR_Nac;559236166613;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9246;EP_OSB_PRA_01;NP_PRA;559236166613;gw101prasrv.petrobras.biz;-
+PRA;7456667;FP_BR_Loc;559236166667;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166667;gw101prasrv.petrobras.biz;-
+PRA;TECMECANICA;FP_BR_Res;559236166891;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166891;gw101prasrv.petrobras.biz;-
+PRA;Sidney;FP_BR_Loc;559236166319;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166319;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166922;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166922;gw101prasrv.petrobras.biz;-
+PRA;PIOP PETROBRAS;FP_BR_Res;559236166627;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9213;EP_OSB_PRA_01;NP_PRA;559236166627;gw101prasrv.petrobras.biz;-
+PRA;Aldrey;FP_BR_Nac;559236166714;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9207;EP_OSB_PRA_01;NP_PRA;559236166714;gw101prasrv.petrobras.biz;-
+PRA;CRT PA;FP_BR_Nac;559236166947;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166947;gw101prasrv.petrobras.biz;-
+PRA;LABORATORIO;FP_BR_Loc;559236166951;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9205;EP_OSB_PRA_01;NP_PRA;559236166951;gw101prasrv.petrobras.biz;-
+PRA;ALOJ SMS;FP_BR_Res;559236166762;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9216;EP_OSB_PRA_01;NP_PRA;559236166762;gw101prasrv.petrobras.biz;-
+PRA;PIOP PROGR OPERA;FP_BR_Loc;559236166730;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9213;EP_OSB_PRA_01;NP_PRA;559236166730;gw101prasrv.petrobras.biz;-
+PRA;REFEITORIO BASE;FP_BR_Res;559236166575;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166575;gw101prasrv.petrobras.biz;-
+PRA;FISCAL SEM SONDA;FP_BR_Nac;559236166563;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9247;EP_OSB_PRA_01;NP_PRA;559236166563;gw101prasrv.petrobras.biz;-
+PRA;OPM INSTRUMENT;FP_BR_Res;559236166321;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166321;gw101prasrv.petrobras.biz;-
+PRA;SUP SMS;FP_BR_Nac;559236166920;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9216;EP_OSB_PRA_01;NP_PRA;559236166920;gw101prasrv.petrobras.biz;-
+PRA;Analise Estoque;FP_BR_Cel;559236166612;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9246;EP_OSB_PRA_01;NP_PRA;559236166612;gw101prasrv.petrobras.biz;-
+PRA;GDS TEC CONTRAT;FP_BR_Res;559236166844;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166844;gw101prasrv.petrobras.biz;-
+PRA;ALESSANDRO;FP_BR_Loc;559236166320;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166320;gw101prasrv.petrobras.biz;-
+PRA;NUCLEO  MONTAGEM;FP_BR_Res;559236166604;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166604;gw101prasrv.petrobras.biz;-
+PRA;PLANEJAMENTO;FP_BR_Nac;559236166952;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166952;gw101prasrv.petrobras.biz;-
+PRA;7456712;FP_BR_Res;559236166712;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166712;gw101prasrv.petrobras.biz;-
+PRA;DPCM  SMS;FP_BR_Res;559236166408;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166408;gw101prasrv.petrobras.biz;-
+PRA;PA PREPOSTO;FP_BR_Nac;559236166655;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166655;gw101prasrv.petrobras.biz;-
+PRA;SESMT PA;FP_BR_Loc;559236166721;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166721;gw101prasrv.petrobras.biz;-
+PRA;DPCM MATERIAIS;FP_BR_Res;559236166682;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166682;gw101prasrv.petrobras.biz;-
+PRA;ADM PA;FP_BR_Nac;559236166647;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166647;gw101prasrv.petrobras.biz;-
+PRA;SG AMBIENTAL;FP_BR_Nac;559236166677;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9219;EP_OSB_PRA_01;NP_PRA;559236166677;gw101prasrv.petrobras.biz;-
+PRA;FISCALIZACAO SG;FP_BR_Nac;559236166676;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9219;EP_OSB_PRA_01;NP_PRA;559236166676;gw101prasrv.petrobras.biz;-
+PRA;DPCM ARTEC;FP_BR_Nac;559236166696;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166696;gw101prasrv.petrobras.biz;-
+PRA;SUPERVISAO DPCM;FP_BR_Nac;559236166915;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166915;gw101prasrv.petrobras.biz;-
+PRA;SEG INT AVR;FP_BR_Nac;559236166719;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166719;gw101prasrv.petrobras.biz;-
+PRA;SGGT HOTELARIA;FP_BR_Nac;559236166678;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9219;EP_OSB_PRA_01;NP_PRA;559236166678;gw101prasrv.petrobras.biz;-
+PRA;7456775;FP_BR_Nac;559236166775;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;;EP_OSB_PRA_01;NP_PRA;559236166775;gw101prasrv.petrobras.biz;-
+PRA;SSGT FISC CIVIL;FP_BR_Nac;559236166610;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9219;EP_OSB_PRA_01;NP_PRA;559236166610;gw101prasrv.petrobras.biz;-
+PRA;SAO CARLOS;FP_BR_Nac;559236166533;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166533;gw101prasrv.petrobras.biz;-
+PRA;ENC PA FORCA;FP_BR_Res;559236166980;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166980;gw101prasrv.petrobras.biz;-
+PRA;MONIT QUAL AGUA;FP_BR_Nac;559236166794;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166794;gw101prasrv.petrobras.biz;-
+PRA;0;FP_BR_Nac;559236166704;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166704;gw101prasrv.petrobras.biz;-
+PRA;7456758;FP_BR_Res;559236166758;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166758;gw101prasrv.petrobras.biz;-
+PRA;SGGT Civil Obras;FP_BR_Nac;559236166790;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9219;EP_OSB_PRA_01;NP_PRA;559236166790;gw101prasrv.petrobras.biz;-
+PRA;Refrig SGGT;FP_BR_Nac;559236166976;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9219;EP_OSB_PRA_01;NP_PRA;559236166976;gw101prasrv.petrobras.biz;-
+PRA;MATERIAS SGGT;FP_BR_Nac;559236166622;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166622;gw101prasrv.petrobras.biz;-
+PRA;GBASE; FP_BR_Int;559236166910;Aparelho Telefônico IP Tipo II / Unify / Desk Phone CP700 / KeyModule KM600;;745;9242;EP_OSB_PRA_01;NP_PRA;559236166910;gw101prasrv.petrobras.biz;-
+PRA;Luciano;FP_BR_Nac;559236166686;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166686;gw101prasrv.petrobras.biz;-
+PRA;APOIO GBASE;FP_BR_Nac;559236166681;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9242;EP_OSB_PRA_01;NP_PRA;559236166681;gw101prasrv.petrobras.biz;-
+PRA;SG PLANEJAMENTO;FP_BR_Nac;559236166679;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9219;EP_OSB_PRA_01;NP_PRA;559236166679;gw101prasrv.petrobras.biz;-
+PRA;VIDEOCON CHVR;FP_BR_Res;559236166331;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166331;gw101prasrv.petrobras.biz;-
+PRA;SGGT ALIMENTACAO;FP_BR_Nac;559236166659;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9219;EP_OSB_PRA_01;NP_PRA;559236166659;gw101prasrv.petrobras.biz;-
+PRA;TRANSPETRO;FP_BR_Res;559236166702;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166702;gw101prasrv.petrobras.biz;-
+PRA;ENGENHARIA PA;FP_BR_Res;559236166984;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166984;gw101prasrv.petrobras.biz;-
+PRA;SUPERVISAO SG;FP_BR_Nac;559236166916;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;9219;EP_OSB_PRA_01;NP_PRA;559236166916;gw101prasrv.petrobras.biz;-
+PRA;COT 02 HOTELARIA;FP_BR_Loc;559236166312;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166312;gw101prasrv.petrobras.biz;-
+PRA;Gildson;FP_BR_Cel;559236166317;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166317;gw101prasrv.petrobras.biz;-
+PRA;Visitantes;FP_BR_Res;559236166333;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166333;gw101prasrv.petrobras.biz;-
+PRA;Maxiel Harison;FP_BR_Res;559236166347;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166347;gw101prasrv.petrobras.biz;-
+PRA;ENF LCB 01;FP_BR_Loc;559236166423;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166423;gw101prasrv.petrobras.biz;-
+PRA;ALA 200 QUARTO;FP_BR_Res;559236166426;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166426;gw101prasrv.petrobras.biz;-
+PRA;ISC BOGPM;FP_BR_Res;559236166450;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166450;gw101prasrv.petrobras.biz;-
+PRA;OPM VR;FP_BR_Loc;559236166470;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166470;gw101prasrv.petrobras.biz;-
+PRA;ENCARREG LCB 01;FP_BR_Nac;559236166509;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166509;gw101prasrv.petrobras.biz;-
+PRA;AP Fiscal Civil;FP_BR_Nac;559236166603;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166603;gw101prasrv.petrobras.biz;-
+PRA;Visitantes;FP_BR_Res;559236166640;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166640;gw101prasrv.petrobras.biz;-
+PRA;CALDEIRARIA EMI;FP_BR_Res;559236166645;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166645;gw101prasrv.petrobras.biz;-
+PRA;RH potencial;FP_BR_Loc;559236166717;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166717;gw101prasrv.petrobras.biz;-
+PRA;QUARTO 12 ALOJ A;FP_BR_Loc;559236166737;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166737;gw101prasrv.petrobras.biz;-
+PRA;APTO MONITORAM;FP_BR_Res;559236166756;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166756;gw101prasrv.petrobras.biz;-
+PRA;ATEND COVID 3;FP_BR_Res;559236166759;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166759;gw101prasrv.petrobras.biz;-
+PRA;AP SUPERVISOR;FP_BR_Res;559236166767;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166767;gw101prasrv.petrobras.biz;-
+PRA;Aloj AP 616;FP_BR_Res;559236166770;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166770;gw101prasrv.petrobras.biz;-
+PRA;Geraldo;FP_BR_Loc;559236166801;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166801;gw101prasrv.petrobras.biz;-
+PRA;Geraldo;FP_BR_Loc;559236166802;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166802;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166814;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166814;gw101prasrv.petrobras.biz;-
+PRA;Visitantes;FP_BR_Res;559236166839;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166839;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166849;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166849;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Loc;559236166856;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166856;gw101prasrv.petrobras.biz;-
+PRA;Geraldo;FP_BR_Loc;559236166870;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166870;gw101prasrv.petrobras.biz;-
+PRA;LABORATORIO CPGP;FP_BR_Res;559236166906;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166906;gw101prasrv.petrobras.biz;-
+PRA;OPM;FP_BR_Res;559236166962;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166962;gw101prasrv.petrobras.biz;-
+PRA;LOCACAO LCB 01;FP_BR_Loc;559236166983;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166983;gw101prasrv.petrobras.biz;-
+PRA;WM Manutencao;FP_BR_Nac;559236166986;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166986;gw101prasrv.petrobras.biz;-
+PRA;HOTELARIA;FP_BR_Res;559236166990;Aparelho Telefônico IP Tipo I / Unify / Desk Phone DP10;;745;-;EP_OSB_PRA_01;NP_PRA;559236166990;gw101prasrv.petrobras.biz;-
